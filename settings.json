@@ -1,0 +1,8 @@
+{
+  "python.pythonPath": "E:\\PYTHON\\Magisterka\\.venv\\Scripts\\python.exe",
+  "terminal.integrated.env.windows": {
+    "VIRTUAL_ENV": "E:\\PYTHON\\Magisterka\\.venv",
+    "PATH": "${workspaceFolder}\\.venv\\Scripts;${env:PATH}",
+    "PYTHONPATH": "${workspaceFolder}\\.venv\\Lib\\site-packages"
+  }
+}
